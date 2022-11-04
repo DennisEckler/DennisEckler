@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/Dennise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dennise" height="30" width="40" /></a>
 <a href="https://de.linkedin.com/in/dennis-eckler-b93050210?trk=org-employees_profile-result-card_result-card_full-click" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis eckler" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deckler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deckler" height="30" width="40" /></a>
 </p>
