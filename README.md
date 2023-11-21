@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dennis Eckler</h1>
 <h3 align="center">A Tech-Enthusiast from Germany</h3>
 
-- 🔭 I’m currently working on **LUA**
-
-- 🌱 I’m currently learning **Django, Full Stack**
-
-- 👯 I’m looking to collaborate on **WebApps, Other Tech-Stuff**
-
-- 💬 Ask me about **Anything**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://de.linkedin.com/in/dennis-eckler-b93050210?trk=org-employees_profile-result-card_result-card_full-click" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis eckler" height="30" width="40" /></a>
